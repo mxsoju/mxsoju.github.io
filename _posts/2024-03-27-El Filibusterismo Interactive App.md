@@ -1,6 +1,6 @@
 ---
 title: El Filibusterismo Interactive App
-date: 2024-03-27 08:45:00 +0800
+date: 2023-04-23 02:30:00 +0800
 categories: [Literature]
 tags: [tenth grade, philippines]
 image: 
