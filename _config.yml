@@ -162,11 +162,15 @@ defaults:
     values:
       comments: false
   - scope:
-      path: "assets/img/favicons"
+      path: ""
       type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
   - scope:
       path: assets/js/dist
     values:
