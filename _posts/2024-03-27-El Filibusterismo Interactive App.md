@@ -20,10 +20,8 @@ An interactive app of "El Filibusterismo by Dr. José Protasio Rizal Mercado y A
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
-<img src="/assets/images/elfili2.png"  
-    alt: No Image>
-<img src="/assets/images/elfili3.png"
-    alt: No Image>
+<img src="/assets/images/elfili2.png"><alt: No Image>
+<img src="/assets/images/elfili3.png"><alt: No Image>
 </details>
 
 ---
