@@ -5,7 +5,7 @@ categories: [Literature]
 tags: [tenth grade, philippines]
 image: 
     path: /assets/images/elfili1.png
-    alt: No Image
+    alt: 
 ---
 
 ---
@@ -20,8 +20,8 @@ An interactive app of "El Filibusterismo by Dr. José Protasio Rizal Mercado y A
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
-<img src="/assets/images/elfili2.png"><alt: No Image>
-<img src="/assets/images/elfili3.png"><alt: No Image>
+<img src="/assets/images/elfili2.png" alt="" />
+<img src="/assets/images/elfili3.png" alt="" />
 </details>
 
 ---

@@ -5,7 +5,7 @@ categories: [Literature]
 tags: [ninth grade, philippines]
 image: 
     path: /assets/images/noli1.png
-    alt: No Image
+    alt: 
 ---
 
 ---
@@ -20,8 +20,8 @@ An interactive app of "Noli Me Tangere by Dr. José Protasio Rizal Mercado y Alo
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
-<img src="/assets/images/noli2.png"><alt: No Image>
-<img src="/assets/images/noli3.png"><alt: No Image>
+<img src="/assets/images/noli2.png" alt="" />
+<img src="/assets/images/noli3.png" alt="" />
 </details>
 
 ---
