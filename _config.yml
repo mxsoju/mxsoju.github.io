@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://gravatar.com/userimage/234457864/05289a51a73e4fdec14c041aded70c0d.jpeg
+avatar: https://i.imgur.com/bAh6ZMM.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

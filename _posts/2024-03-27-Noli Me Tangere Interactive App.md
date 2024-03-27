@@ -1,25 +1,25 @@
 ---
-title: El Filibusterismo Interactive App
-date: 2024-03-27 08:30:00 +0800
+title: Noli Me Tangere Interactive App
+date: 2024-03-27 08:45:00 +0800
 categories: [Literature]
-tags: [tenth grade, philippines]
-image: /assets/images/elfili1.png
+tags: [ninth grade, philippines]
+image: /assets/images/noli1.png
 ---
 
 ---
 
 ## About
 
-An interactive app of "El Filibusterismo by Dr. José Protasio Rizal Mercado y Alonso Realonda" 
+An interactive app of "Noli Me Tangere by Dr. José Protasio Rizal Mercado y Alonso Realonda" 
 - created by [CE Publishing, Inc.](https://cepublishing.com/)
 - runs on Adobe Flash Player 9
 
-> Size: <350MB
+> Size: <400MB
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
-<img src="/assets/images/elfili2.png">
-<img src="/assets/images/elfili3.png">
+<img src="/assets/images/noli2.png">
+<img src="/assets/images/noli3.png">
 </details>
 
 ---
@@ -27,9 +27,9 @@ An interactive app of "El Filibusterismo by Dr. José Protasio Rizal Mercado y A
 ## Installation
 
 1. Extract using [7-zip](https://www.7-zip.org/), [WinRAR](https://www.win-rar.com/), or *Windows Built-in Extraction Tool*
-2. Run ElFilibusterismo.exe
+2. Run NoliMeTangere.exe
 
-<a href="https://github.com/mxsoju/elfilibusterismo/archive/refs/tags/latest.zip" class="btn btn-primary" style="border-radius: 20px;">Download</a>
+<a href="https://github.com/mxsoju/nolimetangere/archive/refs/tags/latest.zip" class="btn btn-primary" style="border-radius: 20px;">Download</a>
 
 <style>
 .btn-primary {
