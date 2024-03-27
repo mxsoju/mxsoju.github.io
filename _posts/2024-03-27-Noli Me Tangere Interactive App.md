@@ -20,8 +20,10 @@ An interactive app of "Noli Me Tangere by Dr. José Protasio Rizal Mercado y Alo
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
-<img src="/assets/images/noli2.png">
-<img src="/assets/images/noli3.png">
+<img src="/assets/images/noli2.png"
+    alt: No Image>
+<img src="/assets/images/noli3.png"
+    alt: No Image>
 </details>
 
 ---
