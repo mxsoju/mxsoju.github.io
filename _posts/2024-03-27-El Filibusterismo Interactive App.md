@@ -3,7 +3,9 @@ title: El Filibusterismo Interactive App
 date: 2024-03-27 08:45:00 +0800
 categories: [Literature]
 tags: [tenth grade, philippines]
-image: /assets/images/elfili1.png
+image: 
+    path: /assets/images/elfili1.png
+    alt: No Image
 ---
 
 ---
